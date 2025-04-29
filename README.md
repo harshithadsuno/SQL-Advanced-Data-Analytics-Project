@@ -41,5 +41,5 @@ This project is a continuation of a **Data Warehouse Project** where raw dataset
 
 ---
 
-**Note:** This project is purely for learning purposes and is based on synthetically generated datasets.
+
 
